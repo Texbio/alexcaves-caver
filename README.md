@@ -2,4 +2,4 @@
 \-Made with Clade AI
 
 ### Demonstration Video
-![cave tablet](https://github.com/user-attachments/assets/7e21ebeb-58a5-4e68-a4d6-233d43baa969)
+![cave tablet](https://github.com/user-attachments/assets/f9f79965-984a-47a0-afc7-b7c066706ce5)
