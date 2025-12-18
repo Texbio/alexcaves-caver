@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.t.alexcavescaver.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "alexcavescaver.refmap.json",
+  "client": [
+    "SpelunkeryTableScreenAccessor",
+    "SpelunkeryTableScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
